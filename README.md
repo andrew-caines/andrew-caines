@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrew-caines
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Rust Programming language, as well as Javascript. 
+- 🌱 I’m currently learning ... Rust at a more advanced level!
+- 💞️ I’m looking to collaborate on ... Rust libraries that I can lean and contribute to!
 - 📫 Andrew.P.Caines@gmail.com
 
 <!---
